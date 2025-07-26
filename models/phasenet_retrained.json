@@ -1,0 +1,24 @@
+{
+    "docstring": "",
+    "model_args": {
+        "sampling_rate": 100,
+        "component_order": "ENZ",
+        "filter_args": null,
+        "filter_kwargs": null,
+        "grouping": "instrument",
+        "in_channels": 3,
+        "classes": 3,
+        "phases": "NPS",
+        "norm": "std",
+        "norm_amp_per_comp": false,
+        "norm_detrend": false
+    },
+    "seisbench_requirement": "0.8.1",
+    "default_args": {
+        "overlap": 1500,
+        "blinding": [
+            250,
+            250
+        ]
+    }
+}
