@@ -59,3 +59,6 @@ This repository is set up for the project **"A Clearer View of the Current Phase
 - **`polarity.csv`**  
   Polarity and S/P amplitude ratio readings of large earthquake traces.  
   Used as input for SKHASH to compute focal mechanism solutions.
+
+- **`s1.html`**
+  Interactive 3D plots of the seismicity. 
