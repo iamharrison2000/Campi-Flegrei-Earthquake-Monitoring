@@ -30,7 +30,7 @@ This repository is set up for the project **"A Clearer View of the Current Phase
 - **`phasenet_retrained.json`, `phasenet_retrained.pt`**  
   - `.json`: Contains model configuration and architecture.  
   - `.pt`: PyTorch model weights.  
-  Custom retrained PhaseNet model for Campi Flegrei seismic data. (Note that the retrained model was trained on seismograms applied with a highpass filter (1Hz).)
+  Retrained PhaseNet model for Campi Flegrei seismic data. (Note that the retrained model was trained on seismograms applied with a highpass filter (1Hz).)
 
 - **`stations.csv`**  
   CSV file listing station metadata: network, station code, channel type, latitude, longitude, and elevation.  
