@@ -24,6 +24,8 @@ This repository is set up for the project **"A Clearer View of the Current Phase
 
 - **`3d_vmod/`**  
   Folder containing 3D velocity model files used for TomoDD relocation.
+  - J. Battaglia, A. Zollo, J. Virieux, D. D. Iacono, Merging active and passive data sets in traveltime tomography: the case study of Campi Flegrei caldera (Southern Italy). Geophysical Prospecting 56, 555–573 (2008).<img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/94d70fa8-ff3b-466e-b03d-b0ce8ce1a997" />
+
 
 - **`phasenet_retrained.json`, `phasenet_retrained.pt`**  
   - `.json`: Contains model configuration and architecture.  
@@ -33,7 +35,6 @@ This repository is set up for the project **"A Clearer View of the Current Phase
 - **`stations.csv`**  
   CSV file listing station metadata: network, station code, channel type, latitude, longitude, and elevation.  
   Used across waveform processing and model input generation.  
-  Renamed from `stations-2.csv`.
 
 - **`stations_velest.dat`**  
   Station file in VELEST format, including station locations, elevations, and P/S phase corrections for VELEST-based location routines.
