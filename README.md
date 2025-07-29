@@ -1,6 +1,6 @@
 # A Clearer View of the Current Phase of Unrest at Campi Flegrei Caldera
 
-This repository is set up for the project **"A Clearer View of the Current Phase of Unrest at Campi Flegrei Caldera."** It includes example scripts, trained models, velocity models, and processed outputs used in our seismic monitoring workflow.
+This repository is set up for the project **"A Clearer View of the Current Phase of Unrest at Campi Flegrei Caldera."** It includes example scripts, retrained PhaseNet models, velocity models, and processed outputs in our earthquake monitoring workflow.
 
 ---
 
