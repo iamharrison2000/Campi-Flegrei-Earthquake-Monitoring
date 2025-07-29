@@ -1,4 +1,3 @@
-#########################################
 Models: 
 
 1d_vmod_velest.mod:
@@ -20,6 +19,5 @@ Renamed from stations-2.csv.
 
 stations_velest.dat
 Station file in VELEST format. Contains station locations, elevations, and P/S phases station corrections for use with VELEST-based location routines.
-#########################################
 
-#########################################
+
