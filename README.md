@@ -3,7 +3,7 @@ Models:
 1d_vmod_velest.mod:
 1D velocity model file in VELEST format. Inverted with VELEST based on a subset of high quality earthquakes and further used as input for VELEST. 
 
-3d_MOD:
+3d_vmod:
 3D velocity model files used for TomoDD relocation. 
 
 phasenet_retrained.json, phasenet_retrained.pt:
