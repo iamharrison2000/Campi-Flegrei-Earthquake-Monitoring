@@ -1,3 +1,16 @@
+Code:
+
+phase_picking.py: 
+Example of phase picking of station CAWE from 2024-01-01 to 2025-01-01 with retrained PhaseNet.
+
+cleaning_phasent_picks.ipynb
+Example of running quality control of the raw phases.
+
+association.ipynb:
+Example of using GaMMA is to run an earthquake association.
+
+
+
 Models: 
 
 1d_vmod_velest.mod:
